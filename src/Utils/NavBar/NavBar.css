@@ -1,0 +1,18 @@
+.nave-bar{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px 100px;
+    background-color: currentColor;
+}
+.Logo{
+    color: white;
+}
+.right.side{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 100px;
+
+}
